@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/feane-1.0.0/$1"
+    }
+  ]
+}

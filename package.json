@@ -1,0 +1,14 @@
+{
+  "name": "feane-restaurant",
+  "version": "1.0.0",
+  "description": "Kenyan Restaurant Website - Feane Template",
+  "main": "feane-1.0.0/index.html",
+  "scripts": {
+    "dev": "npx serve feane-1.0.0",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve feane-1.0.0"
+  },
+  "keywords": ["restaurant", "kenya", "static", "html"],
+  "author": "rotz",
+  "license": "MIT"
+}
